@@ -1,4 +1,4 @@
-# 🐢 TurtleBot3 Burger + ROS2 Humble
+# 🐢 TurtleBot3 Burger + Jetson Nano + ROS2 Humble
 
 > **Jetson Nano 4GB (eMMC 없음 / SD 카드 모듈)** 환경에서 ROS2 Humble을 구축하고,
 > TurtleBot3 Burger를 제어하며 SLAM/네비게이션/기초 AI까지 마스터하는 3주 집중 코스
