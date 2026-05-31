@@ -1,4 +1,4 @@
-# 🐢 TurtleBot3 Burger + ROS2 Humble — 3주 완성 커리큘럼 (Jetson Nano 4GB Edition)
+# 🐢 TurtleBot3 Burger + ROS2 Humble
 
 > **Jetson Nano 4GB (eMMC 없음 / SD 카드 모듈)** 환경에서 ROS2 Humble을 구축하고,
 > TurtleBot3 Burger를 제어하며 SLAM/네비게이션/기초 AI까지 마스터하는 3주 집중 코스
@@ -7,7 +7,7 @@
 
 ## 📋 개요
 
-이 커리큘럼은 **TurtleBot3 Burger** 로봇에 **NVIDIA Jetson Nano 4GB**를 SBC로 탑재하고,
+이 커리큘럼은 **TurtleBot3 Burger** 로봇에 **NVIDIA Jetson Nano 4GB**를 SBC로 탑재하고,<br>
 **ROS2 Humble Hawksbill** (Docker 기반) 환경에서 최종 프로젝트까지 완성하는 것을 목표로 합니다.
 
 | 항목 | 내용 |
